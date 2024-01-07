@@ -8,8 +8,8 @@ elif num>1
             flag=True
             break
         if flag:
-            print("{0} is not a prime number".num)
+            print("{0} is not a prime number".format(num))
         else:
-            print("{0} is a prime number".num)
+            print("{0} is a prime number".format(num))
 	
 		
